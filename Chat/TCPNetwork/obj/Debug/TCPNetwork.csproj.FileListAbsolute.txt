@@ -1,0 +1,6 @@
+C:\Users\Константин\source\repos\Chat\TCPNetwork\bin\Debug\TCPNetwork.dll
+C:\Users\Константин\source\repos\Chat\TCPNetwork\bin\Debug\TCPNetwork.pdb
+C:\Users\Константин\source\repos\Chat\TCPNetwork\obj\Debug\TCPNetwork.csprojAssemblyReference.cache
+C:\Users\Константин\source\repos\Chat\TCPNetwork\obj\Debug\TCPNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\Chat\TCPNetwork\obj\Debug\TCPNetwork.dll
+C:\Users\Константин\source\repos\Chat\TCPNetwork\obj\Debug\TCPNetwork.pdb
